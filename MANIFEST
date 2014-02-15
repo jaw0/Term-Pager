@@ -1,0 +1,8 @@
+MANIFEST
+README
+INSTALL
+CHANGES
+Makefile.PL
+Pager.pm
+t/test1.t
+eg/example1.pl
